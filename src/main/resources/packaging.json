@@ -1,0 +1,111 @@
+[ {
+  "id" : "12345678-9012-3456-7890-123456789012",
+  "productName" : "iPhone 13 Pro",
+  "brandName" : "Apple",
+  "size" : "6.1 inches",
+  "shape" : "Rectangular",
+  "color" : "Graphite",
+  "material" : "Glass and stainless steel",
+  "graphics" : "Apple logo and iPhone 13 Pro branding",
+  "text" : "iPhone 13 Pro"
+}, {
+  "id" : "98765432-1234-5678-9012-345654321234",
+  "productName" : "Samsung Galaxy S22 Ultra",
+  "brandName" : "Samsung",
+  "size" : "6.8 inches",
+  "shape" : "Rectangular",
+  "color" : "Phantom Black",
+  "material" : "Glass and metal",
+  "graphics" : "Samsung logo and Galaxy S22 Ultra branding",
+  "text" : "Galaxy S22 Ultra"
+}, {
+  "id" : "76543210-3210-1234-5678-901234567890",
+  "productName" : "Google Pixel 6 Pro",
+  "brandName" : "Google",
+  "size" : "6.7 inches",
+  "shape" : "Rectangular",
+  "color" : "Sorta Sunny",
+  "material" : "Glass and aluminum",
+  "graphics" : "Google logo and Pixel 6 Pro branding",
+  "text" : "Pixel 6 Pro"
+}, {
+  "id" : "54321098-7654-3210-9876-543210987654",
+  "productName" : "Sony WH-1000XM4 Wireless Noise Cancelling Headphones",
+  "brandName" : "Sony",
+  "size" : "7.9 x 7.3 x 2.5 inches",
+  "shape" : "Over-ear",
+  "color" : "Black",
+  "material" : "Plastic and metal",
+  "graphics" : "Sony logo and WH-1000XM4 branding",
+  "text" : "WH-1000XM4"
+}, {
+  "id" : "32109876-5432-1098-7654-321098765432",
+  "productName" : "Apple AirPods Pro",
+  "brandName" : "Apple",
+  "size" : "1.6 x 0.9 x 0.9 inches",
+  "shape" : "In-ear",
+  "color" : "White",
+  "material" : "Plastic and metal",
+  "graphics" : "Apple logo and AirPods Pro branding",
+  "text" : "AirPods Pro"
+}, {
+  "id" : "10987654-3210-1234-5678-901234567890",
+  "productName" : "Samsung Galaxy Watch4 Classic",
+  "brandName" : "Samsung",
+  "size" : "42mm or 46mm",
+  "shape" : "Round",
+  "color" : "Black or Silver",
+  "material" : "Stainless steel or titanium",
+  "graphics" : "Samsung logo and Galaxy Watch4 Classic branding",
+  "text" : "Galaxy Watch4 Classic"
+}, {
+  "id" : "98765432-1234-5678-9012-345654321234",
+  "productName" : "Apple Watch Series 7",
+  "brandName" : "Apple",
+  "size" : "41mm or 45mm",
+  "shape" : "Round",
+  "color" : "Midnight, Starlight, Blue, Red, or Green",
+  "material" : "Stainless steel or aluminum",
+  "graphics" : "Apple logo and Apple Watch Series 7 branding",
+  "text" : "Apple Watch Series 7"
+}, {
+  "id" : "87654321-0987-6543-2109-876543210987",
+  "productName" : "Fitbit Sense",
+  "brandName" : "Fitbit",
+  "size" : "40mm or 44mm",
+  "shape" : "Round",
+  "color" : "Black, Lunar White, or Graphite",
+  "material" : "Stainless steel",
+  "graphics" : "Fitbit logo and Fitbit Sense branding",
+  "text" : "Fitbit Sense"
+}, {
+  "id" : "76543210-9876-5432-1098-765432109876",
+  "productName" : "Amazon Kindle Paperwhite",
+  "brandName" : "Amazon",
+  "size" : "6 inches",
+  "shape" : "Rectangular",
+  "color" : "Black",
+  "material" : "Plastic and e-ink",
+  "graphics" : "Amazon logo and Kindle Paperwhite branding",
+  "text" : "Kindle Paperwhite"
+}, {
+  "id" : "65432109-8765-4321-0987-654321098765",
+  "productName" : "Nook GlowLight 5",
+  "brandName" : "Barnes & Noble",
+  "size" : "6 inches",
+  "shape" : "Rectangular",
+  "color" : "Black",
+  "material" : "Plastic and e-ink",
+  "graphics" : "Barnes & Noble logo and Nook GlowLight 5 branding",
+  "text" : "Nook GlowLight 5"
+}, {
+  "id" : "b46d43cc-244f-4443-931b-a77d172862b6",
+  "productName" : "Nimadir",
+  "brandName" : "Nimadir",
+  "size" : "5x5",
+  "shape" : "rectangle",
+  "color" : "red",
+  "material" : "nimadir",
+  "graphics" : "bilmadim",
+  "text" : "uniyam bilmadim"
+} ]

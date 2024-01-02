@@ -1,0 +1,82 @@
+[
+  {
+    "productName": "Apple iPhone 13 Pro",
+    "brandName": "Apple",
+    "description": "The Apple iPhone 13 Pro is a high-end smartphone with a powerful A15 Bionic chip, a triple-lens rear camera system, and a ProMotion display.",
+    "size": "6.1 inches",
+    "shape": "Rectangular",
+    "color": "Graphite",
+    "material": "Glass and stainless steel",
+    "id": "12345678-9012-3456-7890-123456789012"
+  },
+  {
+    "productName": "Samsung Galaxy S22 Ultra",
+    "brandName": "Samsung",
+    "description": "The Samsung Galaxy S22 Ultra is a high-end smartphone with a powerful Snapdragon 8 Gen 1 chip, a quad-lens rear camera system, and a 120Hz AMOLED display.",
+    "size": "6.8 inches",
+    "shape": "Rectangular",
+    "color": "Phantom Black",
+    "material": "Glass and metal",
+    "id": "98765432-1234-5678-9012-345654321234"
+  },
+  {
+    "productName": "Google Pixel 6 Pro",
+    "brandName": "Google",
+    "description": "The Google Pixel 6 Pro is a high-end smartphone with a powerful Tensor chip, a triple-lens rear camera system, and a 120Hz OLED display.",
+    "size": "6.7 inches",
+    "shape": "Rectangular",
+    "color": "Sorta Sunny",
+    "material": "Glass and aluminum",
+    "id": "76543210-3210-1234-5678-901234567890"
+  },
+  {
+    "productName": "Sony WH-1000XM4 Wireless Noise Cancelling Headphones",
+    "brandName": "Sony",
+    "description": "The Sony WH-1000XM4 Wireless Noise Cancelling Headphones are a high-end pair of headphones with superior noise cancellation, a long battery life, and a comfortable design.",
+    "size": "7.9 x 7.3 x 2.5 inches",
+    "shape": "Over-ear",
+    "color": "Black",
+    "material": "Plastic and metal",
+    "id": "54321098-7654-3210-9876-543210987654"
+  },
+  {
+    "productName": "Apple AirPods Pro",
+    "brandName": "Apple",
+    "description": "The Apple AirPods Pro are a high-end pair of wireless earbuds with active noise cancellation, a comfortable design, and a long battery life.",
+    "size": "1.6 x 0.9 x 0.9 inches",
+    "shape": "In-ear",
+    "color": "White",
+    "material": "Plastic and metal",
+    "id": "32109876-5432-1098-7654-321098765432"
+  },
+  {
+    "productName": "Samsung Galaxy Watch4 Classic",
+    "brandName": "Samsung",
+    "description": "The Samsung Galaxy Watch4 Classic is a high-end smartwatch with a classic design, a long battery life, and a variety of health and fitness features.",
+    "size": "42mm or 46mm",
+    "shape": "Round",
+    "color": "Black or Silver",
+    "material": "Stainless steel or titanium",
+    "id": "10987654-3210-1234-5678-901234567890"
+  },
+  {
+    "productName": "Apple Watch Series 7",
+    "brandName": "Apple",
+    "description": "The Apple Watch Series 7 is a high-end smartwatch with a larger display, a faster processor, and a more durable design.",
+    "size": "41mm or 45mm",
+    "shape": "Round",
+    "color": "Midnight, Starlight, Blue, Red, or Green",
+    "material": "Stainless steel or aluminum",
+    "id": "98765432-1234-5678-9012-345654321234"
+  },
+  {
+    "productName": "Fitbit Sense",
+    "brandName": "Fitbit",
+    "description": "The Fitbit Sense is a high-end smartwatch with a variety of health and fitness features, including an ECG app, a stress management app, and a skin temperature sensor.",
+    "size": "40mm or 44mm",
+    "shape": "Round",
+    "color": "Black, Lunar White, or Graphite",
+    "material": "Stainless steel",
+    "id": "87654321-0987-6543-2109-876543210987"
+  }
+]

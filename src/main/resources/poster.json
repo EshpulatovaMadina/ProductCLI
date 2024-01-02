@@ -1,0 +1,83 @@
+[
+  {
+    "title": "The Big Game",
+    "message": "Come cheer on your team!",
+    "graphics": "A picture of a football stadium with a crowd of people cheering",
+    "images": "image1.jpg",
+    "size": "2.5x4",
+    "paperType": "UNCOATED_PAPER",
+    "id": "12345678-9012-3456-7890-123456789012"
+  },
+  {
+    "title": "Summer Sale",
+    "message": "Everything must go!",
+    "graphics": "A picture of a store with a sign that says 'Summer Sale'",
+    "images": "image5.png",
+    "size": "2.5x4",
+    "paperType": "COATED_PAPER",
+    "id": "98765432-1234-5678-9012-345654321234"
+  },
+  {
+    "title": "Black Friday",
+    "message": "The biggest shopping day of the year!",
+    "graphics": "A picture of a crowded shopping mall with people fighting over sales items",
+    "images": "image9.jpg",
+    "size": "2.5x4",
+    "paperType": "MATTE_PAPER",
+    "id": "76543210-9876-5432-1098-765432109876"
+  },
+  {
+    "title": "Christmas Sale",
+    "message": "Save big on Christmas gifts!",
+    "graphics": "A picture of a Christmas tree with presents underneath",
+    "images": "img.jpg",
+    "size": "2.5x4",
+    "paperType": "GLOSSY_PAPER",
+    "id": "65432109-8765-4321-0987-654321098765"
+  },
+  {
+    "title": "Back to School Sale",
+    "message": "Get ready for the new school year!",
+    "graphics": "A picture of a backpack, books, and other supplies",
+    "images": "image55.png",
+    "size": "2.5x4",
+    "paperType": "UNCOATED_PAPER",
+    "id": "54321098-7654-3210-9876-543210987654"
+  },
+  {
+    "title": "Valentine's Day Sale",
+    "message": "Show your loved one how much you care!",
+    "graphics": "A picture of a heart with a message that says 'Happy Valentine's Day'",
+    "images": "img90.png",
+    "size": "2.5x4",
+    "paperType": "COATED_PAPER",
+    "id": "32109876-5432-1098-7654-321098765432"
+  },
+  {
+    "title": "Mother's Day Sale",
+    "message": "Show your mom how much you love her!",
+    "graphics": "A picture of a mother and child with a message that says 'Happy Mother's Day'",
+    "images": "jpg.png",
+    "size": "2.5x4",
+    "paperType": "MATTE_PAPER",
+    "id": "10987654-3210-1234-5678-901234567890"
+  },
+  {
+    "title": "Father's Day Sale",
+    "message": "Show your dad how much you appreciate him!",
+    "graphics": "A picture of a father and child with a message that says 'Happy Father's Day'",
+    "images": "image22.jpg",
+    "size": "2.5x4",
+    "paperType": "GLOSSY_PAPER",
+    "id": "98765432-1234-5678-9012-345654321234"
+  },
+  {
+    "title": "Back to the Office Sale",
+    "message": "Get ready to return to the office!",
+    "graphics": "A picture of a desk with a laptop, coffee mug, and other supplies",
+    "images": "image21.jpg",
+    "size": "2.5x4",
+    "paperType": "UNCOATED_PAPER",
+    "id": "87654321-0987-6543-2109-876543210987"
+  }
+]

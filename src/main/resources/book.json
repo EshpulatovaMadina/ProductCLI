@@ -1,0 +1,86 @@
+[
+  {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "publisher": "Pan Books",
+    "edition": "1st Edition",
+    "format": "PAPERBACK",
+    "isbn": "0345391828",
+    "numberOfPages": 192,
+    "coverType": "HARDCOVER",
+    "paperType": "GLOSSY_PAPER",
+    "id": "12345678-9012-3456-7890-123456789012"
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "publisher": "HarperCollins",
+    "edition": "50th Anniversary Edition",
+    "format": "HARDCOVER",
+    "isbn": "0007181193",
+    "numberOfPages": 1024,
+    "coverType": "HARDCOVER",
+    "paperType": "GLOSSY_PAPER",
+    "id": "98765432-1234-5678-9012-345678901234"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "publisher": "Penguin Books",
+    "edition": "Signet Classic",
+    "format": "PAPERBACK",
+    "isbn": "0451524931",
+    "numberOfPages": 320,
+    "coverType": "PAPERBACK",
+    "paperType": "MATTE_PAPER",
+    "id": "76543210-3210-1234-5678-901234567890"
+  },
+  {
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "publisher": "Penguin Books",
+    "edition": "Signet Classic",
+    "format": "PAPERBACK",
+    "isbn": "0451525018",
+    "numberOfPages": 144,
+    "coverType": "PAPERBACK",
+    "paperType": "MATTE_PAPER",
+    "id": "12345678-9012-3456-7890-123456789013"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "publisher": "Little, Brown and Company",
+    "edition": "1st Edition",
+    "format": "PAPERBACK",
+    "isbn": "0316154963",
+    "numberOfPages": 276,
+    "coverType": "PAPERBACK",
+    "paperType": "GLOSSY_PAPER",
+    "id": "98765432-1234-5678-9012-345678901235"
+  },
+  {
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "publisher": "Crown Publishers",
+    "edition": "1st Edition",
+    "format": "PAPERBACK",
+    "isbn": "0385349185",
+    "numberOfPages": 354,
+    "coverType": "PAPERBACK",
+    "paperType": "MATTE_PAPER",
+    "id": "76543210-3210-1234-5678-901234567891"
+  },
+  {
+    "title": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "publisher": "Doubleday",
+    "edition": "1st Edition",
+    "format": "PAPERBACK",
+    "isbn": "0385534214",
+    "numberOfPages": 432,
+    "coverType": "PAPERBACK",
+    "paperType": "MATTE_PAPER",
+    "id": "76543210-3210-1234-5678-901234567892"
+  }
+]

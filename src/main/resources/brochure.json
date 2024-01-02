@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Our Summer Sale",
+    "description": "Shop our summer sale for up to 50% off select items!",
+    "targetAudience": "Everyone",
+    "size": "8.5x11",
+    "paperType": "UNCOATED_PAPER",
+    "graphics": "A variety of colorful graphics are used throughout the brochure to promote the sale.",
+    "images": "A few images of products that are on sale are included in the brochure.",
+    "id": "12345678-9012-3456-7890-123456789012"
+  },
+  {
+    "title": "New Product Launch",
+    "description": "Introducing our new line of eco-friendly products!",
+    "targetAudience": "Environmentalists",
+    "size": "11x17",
+    "paperType": "COATED_PAPER",
+    "graphics": "A few simple yet stylish graphics are used throughout the brochure to promote the new product line.",
+    "images": "A few high-quality images of the new products are included in the brochure.",
+    "id": "98765432-1234-5678-9012-345654321234"
+  },
+  {
+    "title": "Free Event",
+    "description": "Join us for our free event on sustainability!",
+    "targetAudience": "Everyone",
+    "size": "8.5x11",
+    "paperType": "UNCOATED_PAPER",
+    "graphics": "A few colorful graphics are used throughout the brochure to promote the event.",
+    "images": "A few images of the event venue are included in the brochure.",
+    "id": "76543210-3210-1234-5678-901234567890"
+  },
+  {
+    "title": "Back to School Sale",
+    "description": "Get ready for back to school with our sale on backpacks, notebooks, and more!",
+    "targetAudience": "Students",
+    "size": "8.5x11",
+    "paperType": "UNCOATED_PAPER",
+    "graphics": "A variety of colorful graphics are used throughout the brochure to promote the sale.",
+    "images": "A few images of school supplies that are on sale are included in the brochure.",
+    "id": "54321098-7654-3210-9876-543210987654"
+  },
+  {
+    "title": "Winter Sale",
+    "description": "Shop our winter sale for up to 50% off select items!",
+    "targetAudience": "Everyone",
+    "size": "8.5x11",
+    "paperType": "UNCOATED_PAPER",
+    "graphics": "A variety of colorful graphics are used throughout the brochure to promote the sale.",
+    "images": "A few images of winter clothing that are on sale are included in the brochure.",
+    "id": "32109876-5432-1098-7654-321098765432"
+  },
+  {
+    "title": "Grand Opening",
+    "description": "Come celebrate our grand opening with us!",
+    "targetAudience": "Everyone",
+    "size": "11x17",
+    "paperType": "COATED_PAPER",
+    "graphics": "A few simple yet stylish graphics are used throughout the brochure to promote the grand opening.",
+    "images": "A few high-quality images of the store are included in the brochure.",
+    "id": "10987654-3210-9876-5432-109876543210"
+  },
+  {
+    "title": "New Location",
+    "description": "We've moved to a new location! Visit us at our new address to see our expanded selection of products.",
+    "targetAudience": "Everyone",
+    "size": "8.5x11",
+    "paperType": "UNCOATED_PAPER",
+    "graphics": "A few simple yet stylish graphics are used throughout the brochure to promote the new location.",
+    "images": "A few high-quality images of the new store are included in the brochure.",
+    "id": "98765432-1098-7654-3210-987654321098"
+  },
+  {
+    "title": "Job Openings",
+    "description": "We're hiring! Apply today for one of our open positions.",
+    "targetAudience": "Job Seekers",
+    "size": "8.5x11",
+    "paperType": "UNCOATED_PAPER",
+    "graphics": "A few simple yet stylish graphics are used throughout the brochure to promote the job openings.",
+    "images": "A few high-quality images of the company are included in the brochure.",
+    "id": "87654321-0987-6543-2109-876543210987"
+  }
+]

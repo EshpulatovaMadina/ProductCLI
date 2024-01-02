@@ -1,0 +1,19 @@
+[ {
+  "id" : "e4757462-b9c5-466f-9e56-cf7e764669ca",
+  "name" : "Oyatillo",
+  "email" : "oyatillo@gmail.com",
+  "password" : "meliboyev",
+  "role" : "SUPER_ADMIN"
+}, {
+  "id" : "082c5bf4-47ab-4fb8-8bf3-c1abb42257c1",
+  "name" : "Madina",
+  "email" : "madina@gmail.com",
+  "password" : "dina",
+  "role" : "ADMIN"
+}, {
+  "id" : "c10cf90f-8390-4799-93c3-79e9a6181a80",
+  "name" : "Dido",
+  "email" : "dido@gmail.com",
+  "password" : "dina",
+  "role" : "USER"
+} ]

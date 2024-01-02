@@ -1,0 +1,82 @@
+[
+  {
+    "name": "John Doe",
+    "jobTitle": "Software Engineer",
+    "company_name": "Google",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Google_Logo.svg/1200px-Google_Logo.svg.png",
+    "contactInfo": "john.doe@google.com, 123-456-7890",
+    "size": "3.5x2",
+    "paperType": "UNCOATED_PAPER",
+    "id": "12345678-9012-3456-7890-123456789012"
+  },
+  {
+    "name": "Jane Doe",
+    "jobTitle": "Marketing Manager",
+    "company_name": "Microsoft",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Microsoft_logo.svg/1200px-Microsoft_logo.svg.png",
+    "contactInfo": "jane.doe@microsoft.com, 987-654-3210",
+    "size": "3.5x2",
+    "paperType": "COATED_PAPER",
+    "id": "98765432-1234-5678-9012-345654321234"
+  },
+  {
+    "name": "Peter Smith",
+    "jobTitle": "Sales Representative",
+    "company_name": "Amazon",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Amazon_Logo.svg/1200px-Amazon_Logo.svg.png",
+    "contactInfo": "peter.smith@amazon.com, 765-432-1098",
+    "size": "3.5x2",
+    "paperType": "MATTE_PAPER",
+    "id": "76543210-3210-1234-5678-901234567890"
+  },
+  {
+    "name": "Sally Jones",
+    "jobTitle": "Accountant",
+    "company_name": "Citibank",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Citibank_logo.svg/1200px-Citibank_logo.svg.png",
+    "contactInfo": "sally.jones@citibank.com, 543-210-9876",
+    "size": "3.5x2",
+    "paperType": "UNCOATED_PAPER",
+    "id": "54321098-7654-3210-9876-543210987654"
+  },
+  {
+    "name": "David Brown",
+    "jobTitle": "Web Developer",
+    "company_name": "Facebook",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Facebook_logo.svg/1200px-Facebook_logo.svg.png",
+    "contactInfo": "david.brown@facebook.com, 321-098-7654",
+    "size": "3.5x2",
+    "paperType": "COATED_PAPER",
+    "id": "32109876-5432-1098-7654-321098765432"
+  },
+  {
+    "name": "Susan Smith",
+    "jobTitle": "Customer Service Representative",
+    "company_name": "Apple",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Apple_logo.svg/1200px-Apple_logo.svg.png",
+    "contactInfo": "susan.smith@apple.com, 109-876-5432",
+    "size": "3.5x2",
+    "paperType": "MATTE_PAPER",
+    "id": "10987654-3210-1234-5678-901234567890"
+  },
+  {
+    "name": "Michael Jones",
+    "jobTitle": "Software Developer",
+    "company_name": "IBM",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/IBM_logo.svg/1200px-IBM_logo.svg.png",
+    "contactInfo": "michael.jones@ibm.com, 987-654-3210",
+    "size": "3.5x2",
+    "paperType": "UNCOATED_PAPER",
+    "id": "98765432-1234-5678-9012-345654321234"
+  },
+  {
+    "name": "Jennifer Smith",
+    "jobTitle": "Marketing Manager",
+    "company_name": "AT&T",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AT%26T_logo.svg/1200px-AT%26T_logo.svg.png",
+    "contactInfo": "jennifer.smith@att.com, 765-432-1098",
+    "size": "3.5x2",
+    "paperType": "COATED_PAPER",
+    "id": "76543210-3210-1234-5678-901234567890"
+  }
+]

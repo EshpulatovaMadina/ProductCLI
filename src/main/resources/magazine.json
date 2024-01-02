@@ -1,0 +1,31 @@
+[ {
+  "id" : "5cd8ca46-6b54-4617-bba8-efb744dc6e11",
+  "title" : "National Geographic",
+  "publisher" : "National Geographic Society",
+  "issueDate" : "06.09.2020",
+  "format" : "Magazine",
+  "numberOfPages" : 120,
+  "coverType" : "PAPERBACK",
+  "paperType" : "COATED_PAPER"
+},
+  {
+  "id": "98765432-1234-5678-9012-345654321234",
+  "title": "Time",
+  "publisher": "Time Inc.",
+  "issueDate": "12.09.2019",
+  "format": "Magazine",
+  "numberOfPages": 100,
+  "coverType": "PAPERBACK",
+  "paperType": "UNCOATED_PAPER"
+},
+  {
+    "id": "76543210-3210-1234-5678-901234567890",
+    "title": "The Economist",
+    "publisher": "The Economist Group",
+    "issueDate": "12.09.2023",
+    "format": "Magazine",
+    "numberOfPages": 140,
+    "coverType": "DUST_JACKET",
+    "paperType": "MATTE_PAPER"
+  }
+]
